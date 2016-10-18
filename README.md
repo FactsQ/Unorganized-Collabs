@@ -12,22 +12,31 @@
 
 	Pauline Maunes 
 • Back End / Compilation 
+
 	Carlo Guevarra
 • Back End / Bonus Game
+
 	Ronnel Avila
 • Back End / Bonus Game
+
 	Lenny Llamado
 • Design / Bonus Game
+
 	Sarah Pangan
 • Design / Bonus Game
+
 	Kimberly Orozco
 • Design / Bonus Game
+
 	John Michael Cao
 • Animation / Sounds Effect / Bonus Game
+
 	Dan Avery Loayon 
 • Animation / Sounds Effect / Bonus Game
+
 	Kent Dayrit
 • Animation / Sounds Effect / Bonus Game
+
 	Josel Charille De Mesa
 • Logo / Read Me / Bonus Game 
 
