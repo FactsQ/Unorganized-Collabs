@@ -8,7 +8,8 @@
 #How to Play
   There are many question in the game, just choose the correct answer for every question, and every correct answer you’ll move to the next question until you reach the end. You have 3 lives every wrong answer your lives will be deducted and every correct answer to the bonus game you’ll get +1 life.  
   
- #Members / Contributions
+#Members / Contributions
+
 	Pauline Maunes 
 • Back End / Compilation 
 	Carlo Guevarra
